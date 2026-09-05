@@ -42,4 +42,4 @@ lancer le projet en tant que springBoot Application
 
 tester les api avec postman selon leur url dans les controllers
 
-Realise par : Ismail LEMZAH / Mohammed louizi / kaoutar ressaki
+Realise par : EL MESSOUSSI Mohamed Sinane
